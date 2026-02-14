@@ -1,0 +1,15 @@
+{
+    "$schema": "https://schemas.wp.org/wp/6.9/theme.json",
+    "version": 3,
+    "settings": {
+        "color": {
+            "palette": [
+                {
+                    "color": "#ffff00",
+                    "name": "Child Background",
+                    "slug": "zk-background"
+                }
+            ]
+        }
+    }
+}
