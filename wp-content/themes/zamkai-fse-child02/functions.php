@@ -1,5 +1,6 @@
 <?php
 // Exit if accessed directly
+// Sync verification comment
 if (!defined('ABSPATH'))
     exit;
 
